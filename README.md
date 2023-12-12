@@ -1,7 +1,7 @@
 ### Hi, I'm Aman Khan! 👋
 
 - ✍️ I’m currently learning BackEnd Technologies like Python, Django, Django Rest Framework and API endpoints,etc.
--🧑‍🎓 I'm a Computer Engineering Graduate and also a META certified Professional BACK-END DEVELOPER.
+-🧑‍🎓 I'm a Computer Engineering Graduate and also a META certified Professional BACK-END DEVELOPER, Certification in Machine Learning from IBM, Data Analytics from Godrej Infotech.
 - 🧑‍💻 I’m looking to work as Software Developer/Full Stack Web Developer.
 - 🤔 I’m looking for help with Coding experts.
 - 💬 Ask me about Python or any tech related stuff in backend development.
