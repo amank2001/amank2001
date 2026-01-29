@@ -6,7 +6,7 @@
 - 🤔 I’m looking for projects to contribute as Python Django Developer and open for GenAI roles as well.
 - 💬 Ask me about Python or any tech related stuff in backend development.
 - 📫 How to reach me: 
-- ✉️: aman.3119017.co@mhssce.ac.in
+- ✉️: amanpyproj@gmail.com
 - 📞: +91 7303881248
 - 🌐: linkedin.com/in/aman-khan-91745024b/
 - 🌐: https://amank2001.github.io/My-Portfolio-Website/
