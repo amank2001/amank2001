@@ -9,5 +9,5 @@
 - ✉️: amanpyproj@gmail.com
 - 📞: +91 7303881248
 - 🌐: linkedin.com/in/aman-khan-91745024b/
-- 🌐: https://amank2001.github.io/My-Portfolio-Website/
+- 🌐: My latest project: https://aiatlastravel.in
 - ⚡ Fun fact: When I'm into some stuff, i just dig it until i reach the core.
